@@ -1,0 +1,7 @@
+{
+    "app": {
+      "example": "example",
+      "hi": "hi",
+      "text_too_short": "Your message is too short"
+    }
+}
